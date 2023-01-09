@@ -7,6 +7,5 @@ void add(int a, int b)
 int main()
 {
 printf("Welcome");
-add(5,6);
 return 0;
 }
